@@ -6,7 +6,7 @@
 
 Detailed description
 
-![Non-Running Calculator]()
+![Non-Running Calculator](github.com/ibitefingersyum/Portfolio/tree/main/src/Calculator)
 
 * [Windows EXE]()
 * [MacOSX]()
