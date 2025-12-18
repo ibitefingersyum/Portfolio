@@ -18,3 +18,6 @@ Post-Assessment: 88.49% (12/10/2025)
 Interior Design 1
 Pre-Assessment: 48.03% (01/03/2024)
 Post-Assessment: 95.94% (05/08/2024)
+
+https://github.com/SeaPickle755/Shared-repo
+I contributed to this prohttps://github.com/SeaPickle755/Shared-repoject by working on specific sections of the codebase, assisting with debugging, and helping implement core functionality. My contributions include writing and editing code, testing features, and collaborating with teammates through GitHub commits and discussions.
