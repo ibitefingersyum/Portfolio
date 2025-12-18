@@ -1,7 +1,7 @@
 # Alex Z. – Programming I Portfolio | 2026
 
 ## Contact Information
-📧 [Email Me](mailto:4alexzheng@gmail.com)
+[Email](mailto:4alexzheng@gmail.com)
 
 ---
 
@@ -22,14 +22,15 @@
 ---
 
 ## Term One Project Spotlight
+### Projects Included
+- **Grade Chart** – Displays and organizes student grades
+- **Calculator** – Performs basic arithmetic operations (BROKEN)
+- **Level Countdown** – Uses loops to count up levels after a specific amount of time passed.
+- **Making Cars** – Demonstrates object creation and movement
+- **Ball Bounce** – Simulates motion and collision logic
 
 ### Shared Repo Project
 🔗 **Group Repository:** https://github.com/SeaPickle755/Shared-repo
 
 **Description:**  
 This project was a collaborative Term One assignment focused on applying Programming I concepts such as variables, conditionals, loops, and basic user interaction. The project emphasized teamwork, problem-solving, and using GitHub for collaboration and version control.
-
-**Image of Running App:**  
-![Running App Screenshot](images/shared-repo-screenshot.png)
-
-> *(Upload a screenshot of the running app to an `images` folder*
