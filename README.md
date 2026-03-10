@@ -28,6 +28,8 @@
 - **Level Countdown** – Uses loops to count up levels after a specific amount of time passed.
 - **Making Cars** – Demonstrates object creation and movement
 - **Ball Bounce** – Simulates motion and collision logic
+## Term two Projects
+- **FlappySwords** FlappyBird + DinoSwords
 
 ### Shared Repo Project
 🔗 **Group Repository:** https://github.com/SeaPickle755/Shared-repo
