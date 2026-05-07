@@ -23,3 +23,6 @@ madlibs - Attempt at user input
 FlappySwords - FlappyBird + DinoSwords (Incomplete)
 
 The Dreadnought - G/D inspired 2d game (Rushed and used ai)
+
+## Certifications
+tbd
